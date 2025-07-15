@@ -1,0 +1,9 @@
+{
+  "name": "shakewellagency/gp-premium",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "classmap": [
+      "."
+    ]
+  }
+}
